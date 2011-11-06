@@ -1,0 +1,840 @@
+TCIDGrowl
+v7
+r0
+t301477360.651161
+cCheck dependencies
+cProcessInfoPlistFile /Users/dcp1990/Development/CIDGrowl/build/Debug/CIDGrowl.app/Contents/Info.plist CIDGrowl-Info.plist
+cCpResource "build/Debug/CIDGrowl.app/Contents/Resources/Growl Registration Ticket.growlRegDict" "Growl Registration Ticket.growlRegDict"
+cCopyStringsFile /Users/dcp1990/Development/CIDGrowl/build/Debug/CIDGrowl.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+cCompileXIB /Users/dcp1990/Development/CIDGrowl/English.lproj/MainMenu.xib
+cCpResource build/Debug/CIDGrowl.app/Contents/Resources/menuic.png menuic.png
+cCopyTiffFile /Users/dcp1990/Development/CIDGrowl/build/Debug/CIDGrowl.app/Contents/Resources/menu22.tif menu22.tif
+cCpResource build/Debug/CIDGrowl.app/Contents/Resources/bigicon.png bigicon.png
+cCpResource build/Debug/CIDGrowl.app/Contents/Resources/CIDGrowlIcon.icns CIDGrowlIcon.icns
+cCopyTiffFile /Users/dcp1990/Development/CIDGrowl/build/Debug/CIDGrowl.app/Contents/Resources/growlicon.tif growlicon.tif
+cProcessPCH /var/folders/H+/H+mA7h1MEoG+kwyM3p-63k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CIDGrowl_Prefix-ghfsbbsdinggdegjnzntxboypiwz/CIDGrowl_Prefix.pch.gch CIDGrowl_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CIDGrowl.build/Debug/CIDGrowl.build/Objects-normal/x86_64/main.o /Users/dcp1990/Development/CIDGrowl/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/CIDGrowl.build/Debug/CIDGrowl.build/Objects-normal/x86_64/CIDGrowlAppDelegate.o /Users/dcp1990/Development/CIDGrowl/CIDGrowlAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+cLd /Users/dcp1990/Development/CIDGrowl/build/Debug/CIDGrowl.app/Contents/MacOS/CIDGrowl normal x86_64
+cPBXCp build/Debug/CIDGrowl.app/Contents/Frameworks/Growl.framework Growl.framework
+cTouch /Users/dcp1990/Development/CIDGrowl/build/Debug/CIDGrowl.app
+
+N/Developer/SDKs/MacOSX10.6.sdk
+c000000004BF4701900000000000000EE
+t1274310681
+s238
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/AppKit.framework/Headers/AppKit.h
+c000000004BE2C6D100000000000017ED
+t1273153233
+s6125
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Carbon.framework/Headers/Carbon.h
+c000000004B4834EA00000000000005FF
+t1263023338
+s1535
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Cocoa.framework/Headers/Cocoa.h
+c0000000040C4AA6800000000000001E5
+t1086630504
+s485
+
+N/Developer/SDKs/MacOSX10.6.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004B90FBB700000000000013E6
+t1267792823
+s5094
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/arpa/inet.h
+c000000004AC598620000000000001533
+t1254463586
+s5427
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/errno.h
+c000000004AC59C8100000000000003EB
+t1254464641
+s1003
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/netinet/in.h
+c000000004B90BBA5000000000000539D
+t1267776421
+s21405
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdio.h
+c000000004AC59C820000000000004174
+t1254464642
+s16756
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/stdlib.h
+c000000004AC59C820000000000002DF5
+t1254464642
+s11765
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/string.h
+c000000004AC59C820000000000001731
+t1254464642
+s5937
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/sys/cdefs.h
+c000000004B90BBA80000000000005623
+t1267776424
+s22051
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/sys/select.h
+c000000004B90BBAA00000000000016A2
+t1267776426
+s5794
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/sys/socket.h
+c000000004B90BBAA00000000000059BC
+t1267776426
+s22972
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/sys/types.h
+c000000004B90BBAB0000000000002905
+t1267776427
+s10501
+
+N/Developer/SDKs/MacOSX10.6.sdk/usr/include/unistd.h
+c000000004AC59C82000000000000563E
+t1254464642
+s22078
+
+N/System/Library/Frameworks/Cocoa.framework/Cocoa
+c000000004A1F2D63000000000000A5E0
+t1243557219
+s42464
+
+N/Users/dcp1990/Desktop/Growl-WithInstaller.framework/Growl-WithInstaller
+c000000004AC186520000000000065960
+t1254196818
+s416096
+
+N/Users/dcp1990/Desktop/Growl-WithInstaller.framework/Headers/Growl.h
+c000000004AC186520000000000000082
+t1254196818
+s130
+i"GrowlDefines.h"
+i"GrowlApplicationBridge.h"
+i"GrowlApplicationBridge-Carbon.h"
+
+N/Users/dcp1990/Desktop/Growl-WithInstaller.framework/Headers/GrowlApplicationBridge-Carbon.h
+c000000004AC18652000000000000867E
+t1254196818
+s34430
+i<sys/cdefs.h>
+i<Carbon/Carbon.h>
+
+N/Users/dcp1990/Desktop/Growl-WithInstaller.framework/Headers/GrowlApplicationBridge.h
+c000000004AC186520000000000006B1D
+t1254196818
+s27421
+i<Foundation/Foundation.h>
+i<AppKit/AppKit.h>
+i"GrowlDefines.h"
+
+N/Users/dcp1990/Desktop/Growl-WithInstaller.framework/Headers/GrowlDefines.h
+c000000004AC186520000000000003D75
+t1254196818
+s15733
+
+N/Users/dcp1990/Development/CIDGrowl/../../Desktop/Growl-WithInstaller.framework/Growl-WithInstaller
+c000000004AC186520000000000065960
+t1254196818
+s416096
+
+N/Users/dcp1990/Development/CIDGrowl/CIDGrowlAppDelegate.h
+c000000004C47F5540000000000000258
+t1279784276
+s600
+i<Cocoa/Cocoa.h>
+i<Growl/Growl.h>
+
+N/Users/dcp1990/Development/CIDGrowl/CIDGrowlAppDelegate.m
+c000000004C47F59E00000000000015FF
+t1279784350
+s5631
+i"CIDGrowlAppDelegate.h"
+i<stdio.h>
+i<stdlib.h>
+i<unistd.h>
+i<errno.h>
+i<string.h>
+i<sys/types.h>
+i<sys/socket.h>
+i<sys/select.h>
+i<netinet/in.h>
+i<arpa/inet.h>
+
+N/Users/dcp1990/Development/CIDGrowl/CIDGrowlIcon.icns
+c000000004C3FB55C000000000001BC8E
+t1279243612
+s113806
+
+N/Users/dcp1990/Development/CIDGrowl/CIDGrowl_Prefix.pch
+c000000004C3FB55C0000000000000093
+t1279243612
+s147
+i<Cocoa/Cocoa.h>
+
+N/Users/dcp1990/Development/CIDGrowl/English.lproj/InfoPlist.strings
+c000000004C3FB55C000000000000002D
+t1279243612
+s45
+
+N/Users/dcp1990/Development/CIDGrowl/English.lproj/MainMenu.xib
+c000000004C47F66C000000000002D347
+t1279784556
+s185159
+
+N/Users/dcp1990/Development/CIDGrowl/Growl Registration Ticket.growlRegDict
+c000000004C3FB55C00000000000001E6
+t1279243612
+s486
+
+N/Users/dcp1990/Development/CIDGrowl/Growl-WithInstaller.framework
+c000000004C364A1000000000000000CC
+t1278626320
+s204
+
+N/Users/dcp1990/Development/CIDGrowl/Growl-WithInstaller.framework/Growl-WithInstaller
+c000000004C364A1000000000000608D4
+t1278626320
+s395476
+
+N/Users/dcp1990/Development/CIDGrowl/Growl-WithInstaller.framework/Headers/Growl.h
+c000000004C364A100000000000000082
+t1278626320
+s130
+i"GrowlDefines.h"
+i"GrowlApplicationBridge.h"
+i"GrowlApplicationBridge-Carbon.h"
+
+N/Users/dcp1990/Development/CIDGrowl/Growl-WithInstaller.framework/Headers/GrowlApplicationBridge-Carbon.h
+c000000004C364A10000000000000867E
+t1278626320
+s34430
+i<sys/cdefs.h>
+i<Carbon/Carbon.h>
+
+N/Users/dcp1990/Development/CIDGrowl/Growl-WithInstaller.framework/Headers/GrowlApplicationBridge.h
+c000000004C364A100000000000006B1D
+t1278626320
+s27421
+i<Foundation/Foundation.h>
+i<AppKit/AppKit.h>
+i"GrowlDefines.h"
+
+N/Users/dcp1990/Development/CIDGrowl/Growl-WithInstaller.framework/Headers/GrowlDefines.h
+c000000004C364A100000000000003D75
+t1278626320
+s15733
+
+N/Users/dcp1990/Development/CIDGrowl/Growl.framework
+c000000004C364A1000000000000000CC
+t1278626320
+s204
+
+N/Users/dcp1990/Development/CIDGrowl/Growl.framework/Growl
+c000000004C364A10000000000003F4B8
+t1278626320
+s259256
+
+N/Users/dcp1990/Development/CIDGrowl/Growl.framework/Headers/Growl.h
+c000000004C364A100000000000000082
+t1278626320
+s130
+i"GrowlDefines.h"
+i"GrowlApplicationBridge.h"
+i"GrowlApplicationBridge-Carbon.h"
+
+N/Users/dcp1990/Development/CIDGrowl/Growl.framework/Headers/GrowlApplicationBridge-Carbon.h
+c000000004C364A10000000000000867E
+t1278626320
+s34430
+i<sys/cdefs.h>
+i<Carbon/Carbon.h>
+
+N/Users/dcp1990/Development/CIDGrowl/Growl.framework/Headers/GrowlApplicationBridge.h
+c000000004C364A100000000000006B1D
+t1278626320
+s27421
+i<Foundation/Foundation.h>
+i<AppKit/AppKit.h>
+i"GrowlDefines.h"
+
+N/Users/dcp1990/Development/CIDGrowl/Growl.framework/Headers/GrowlDefines.h
+c000000004C364A100000000000003D75
+t1278626320
+s15733
+
+N/Users/dcp1990/Development/CIDGrowl/bigicon.png
+c000000004C3FB55B0000000000004591
+t1279243611
+s17809
+
+N/Users/dcp1990/Development/CIDGrowl/build/CIDGrowl.build/Debug/CIDGrowl.build/Objects-normal/x86_64/CIDGrowl.LinkFileList
+c000000004C47F53100000000000000E5
+t1279784241
+s229
+
+N/Users/dcp1990/Development/CIDGrowl/build/CIDGrowl.build/Debug/CIDGrowl.build/Objects-normal/x86_64/CIDGrowlAppDelegate.o
+t1279784351
+s38548
+
+N/Users/dcp1990/Development/CIDGrowl/build/CIDGrowl.build/Debug/CIDGrowl.build/Objects-normal/x86_64/main.o
+t1279784246
+s4984
+
+N/Users/dcp1990/Development/CIDGrowl/build/Debug/CIDGrowl.app
+t1279784560
+s102
+
+N/Users/dcp1990/Development/CIDGrowl/build/Debug/CIDGrowl.app/Contents/Frameworks/Growl-WithInstaller.framework
+t1279783364
+s204
+
+N/Users/dcp1990/Development/CIDGrowl/build/Debug/CIDGrowl.app/Contents/Frameworks/Growl.framework
+t1279784263
+s204
+
+N/Users/dcp1990/Development/CIDGrowl/build/Debug/CIDGrowl.app/Contents/Frameworks/Growl.i
+t2
+s0
+
+N/Users/dcp1990/Development/CIDGrowl/build/Debug/CIDGrowl.app/Contents/Info.plist
+t1279784461
+s985
+
+N/Users/dcp1990/Development/CIDGrowl/build/Debug/CIDGrowl.app/Contents/MacOS/CIDGrowl
+t1279784351
+s18144
+
+N/Users/dcp1990/Development/CIDGrowl/build/Debug/CIDGrowl.app/Contents/PkgInfo
+t1279784461
+s8
+
+N/Users/dcp1990/Development/CIDGrowl/build/Debug/CIDGrowl.app/Contents/Resources/CIDGrowlIcon.icns
+t1279784241
+s113806
+
+N/Users/dcp1990/Development/CIDGrowl/build/Debug/CIDGrowl.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1279784241
+s92
+
+N/Users/dcp1990/Development/CIDGrowl/build/Debug/CIDGrowl.app/Contents/Resources/English.lproj/MainMenu.nib
+t1279784560
+s34145
+
+N/Users/dcp1990/Development/CIDGrowl/build/Debug/CIDGrowl.app/Contents/Resources/Growl Registration Ticket.growlRegDict
+t1279784241
+s486
+
+N/Users/dcp1990/Development/CIDGrowl/build/Debug/CIDGrowl.app/Contents/Resources/bigicon.png
+t1279784241
+s17809
+
+N/Users/dcp1990/Development/CIDGrowl/build/Debug/CIDGrowl.app/Contents/Resources/growlicon.tif
+t1279784241
+s1075964
+
+N/Users/dcp1990/Development/CIDGrowl/build/Debug/CIDGrowl.app/Contents/Resources/menu22.tif
+t1279784241
+s26084
+
+N/Users/dcp1990/Development/CIDGrowl/build/Debug/CIDGrowl.app/Contents/Resources/menuic.png
+t1279784241
+s3218
+
+N/Users/dcp1990/Development/CIDGrowl/growlicon.tif
+c000000004C3FB55C0000000000106AFC
+t1279243612
+s1075964
+
+N/Users/dcp1990/Development/CIDGrowl/main.m
+c000000004C3FB55C00000000000000FB
+t1279243612
+s251
+i<Cocoa/Cocoa.h>
+
+N/Users/dcp1990/Development/CIDGrowl/menu22.tif
+c000000004C3FB55C00000000000065E4
+t1279243612
+s26084
+
+N/Users/dcp1990/Development/CIDGrowl/menuic.png
+c000000004C3FB55C0000000000000C92
+t1279243612
+s3218
+
+N/Users/dcp1990/Users/dcp1990/Desktop/Growl-WithInstaller.framework/Headers/Growl.h
+c000000004C3FB54A0000000000000082
+t1279243594
+s130
+i"GrowlDefines.h"
+i"GrowlApplicationBridge.h"
+i"GrowlApplicationBridge-Carbon.h"
+
+N/Users/dcp1990/Users/dcp1990/Desktop/Growl-WithInstaller.framework/Headers/GrowlApplicationBridge-Carbon.h
+c000000004C3FB54A000000000000867E
+t1279243594
+s34430
+i<sys/cdefs.h>
+i<Carbon/Carbon.h>
+
+N/Users/dcp1990/Users/dcp1990/Desktop/Growl-WithInstaller.framework/Headers/GrowlApplicationBridge.h
+c000000004C3FB54A0000000000006B1D
+t1279243594
+s27421
+i<Foundation/Foundation.h>
+i<AppKit/AppKit.h>
+i"GrowlDefines.h"
+
+N/Users/dcp1990/Users/dcp1990/Desktop/Growl-WithInstaller.framework/Headers/GrowlDefines.h
+c000000004C3FB54A0000000000003D75
+t1279243594
+s15733
+
+N/Users/dcp1990/Users/dcp1990/Development/CIDGrowl/CIDGrowlAppDelegate.h
+c000000004C3FB55C000000000000025E
+t1279243612
+s606
+i<Cocoa/Cocoa.h>
+i<Growl-WithInstaller/Growl.h>
+
+N/Users/dcp1990/Users/dcp1990/Development/CIDGrowl/CIDGrowlAppDelegate.m
+c000000004C3FB55C0000000000001616
+t1279243612
+s5654
+i"CIDGrowlAppDelegate.h"
+i<stdio.h>
+i<stdlib.h>
+i<unistd.h>
+i<errno.h>
+i<string.h>
+i<sys/types.h>
+i<sys/socket.h>
+i<sys/select.h>
+i<netinet/in.h>
+i<arpa/inet.h>
+
+N/Users/dcp1990/Users/dcp1990/Development/CIDGrowl/CIDGrowlIcon.icns
+c000000004C3FB55C000000000001BC8E
+t1279243612
+s113806
+
+N/Users/dcp1990/Users/dcp1990/Development/CIDGrowl/CIDGrowl_Prefix.pch
+c000000004C3FB55C0000000000000093
+t1279243612
+s147
+i<Cocoa/Cocoa.h>
+
+N/Users/dcp1990/Users/dcp1990/Development/CIDGrowl/English.lproj/InfoPlist.strings
+c000000004C3FB55C000000000000002D
+t1279243612
+s45
+
+N/Users/dcp1990/Users/dcp1990/Development/CIDGrowl/English.lproj/MainMenu.xib
+c000000004C3FB55C000000000002C822
+t1279243612
+s182306
+
+N/Users/dcp1990/Users/dcp1990/Development/CIDGrowl/Growl Registration Ticket.growlRegDict
+c000000004C3FB55C00000000000001E6
+t1279243612
+s486
+
+N/Users/dcp1990/Users/dcp1990/Development/CIDGrowl/Growl-WithInstaller.framework
+c000000004C3FB55C00000000000000CC
+t1279243612
+s204
+
+N/Users/dcp1990/Users/dcp1990/Development/CIDGrowl/Growl-WithInstaller.framework/Growl-WithInstaller
+c000000004C3FB55C0000000000065960
+t1279243612
+s416096
+
+N/Users/dcp1990/Users/dcp1990/Development/CIDGrowl/bigicon.png
+c000000004C3FB55B0000000000004591
+t1279243611
+s17809
+
+N/Users/dcp1990/Users/dcp1990/Development/CIDGrowl/build/CIDGrowl.build/Debug/CIDGrowl.build/Objects-normal/x86_64/CIDGrowl.LinkFileList
+c000000004C44FE620000000000000101
+t1279589986
+s257
+
+N/Users/dcp1990/Users/dcp1990/Development/CIDGrowl/build/CIDGrowl.build/Debug/CIDGrowl.build/Objects-normal/x86_64/CIDGrowlAppDelegate.o
+t2
+s0
+
+N/Users/dcp1990/Users/dcp1990/Development/CIDGrowl/build/CIDGrowl.build/Debug/CIDGrowl.build/Objects-normal/x86_64/main.o
+t1279589991
+s5008
+
+N/Users/dcp1990/Users/dcp1990/Development/CIDGrowl/build/Debug/CIDGrowl.app
+t1279243612
+s102
+
+N/Users/dcp1990/Users/dcp1990/Development/CIDGrowl/build/Debug/CIDGrowl.app/Contents/Frameworks/Growl-WithInstaller.framework
+t1279243612
+s204
+
+N/Users/dcp1990/Users/dcp1990/Development/CIDGrowl/build/Debug/CIDGrowl.app/Contents/Info.plist
+t1279243612
+s985
+
+N/Users/dcp1990/Users/dcp1990/Development/CIDGrowl/build/Debug/CIDGrowl.app/Contents/MacOS/CIDGrowl
+t1279243612
+s18144
+
+N/Users/dcp1990/Users/dcp1990/Development/CIDGrowl/build/Debug/CIDGrowl.app/Contents/PkgInfo
+t1279243612
+s8
+
+N/Users/dcp1990/Users/dcp1990/Development/CIDGrowl/build/Debug/CIDGrowl.app/Contents/Resources/CIDGrowlIcon.icns
+t1279243612
+s113806
+
+N/Users/dcp1990/Users/dcp1990/Development/CIDGrowl/build/Debug/CIDGrowl.app/Contents/Resources/English.lproj/InfoPlist.strings
+t1279243612
+s92
+
+N/Users/dcp1990/Users/dcp1990/Development/CIDGrowl/build/Debug/CIDGrowl.app/Contents/Resources/English.lproj/MainMenu.nib
+t1279243612
+s34536
+
+N/Users/dcp1990/Users/dcp1990/Development/CIDGrowl/build/Debug/CIDGrowl.app/Contents/Resources/Growl Registration Ticket.growlRegDict
+t1279243612
+s486
+
+N/Users/dcp1990/Users/dcp1990/Development/CIDGrowl/build/Debug/CIDGrowl.app/Contents/Resources/bigicon.png
+t1279243612
+s17809
+
+N/Users/dcp1990/Users/dcp1990/Development/CIDGrowl/build/Debug/CIDGrowl.app/Contents/Resources/growlicon.tif
+t1279243612
+s1075964
+
+N/Users/dcp1990/Users/dcp1990/Development/CIDGrowl/build/Debug/CIDGrowl.app/Contents/Resources/menu22.tif
+t1279243612
+s26084
+
+N/Users/dcp1990/Users/dcp1990/Development/CIDGrowl/build/Debug/CIDGrowl.app/Contents/Resources/menuic.png
+t1279243612
+s3218
+
+N/Users/dcp1990/Users/dcp1990/Development/CIDGrowl/growlicon.tif
+c000000004C3FB55C0000000000106AFC
+t1279243612
+s1075964
+
+N/Users/dcp1990/Users/dcp1990/Development/CIDGrowl/main.m
+c000000004C3FB55C00000000000000FB
+t1279243612
+s251
+i<Cocoa/Cocoa.h>
+
+N/Users/dcp1990/Users/dcp1990/Development/CIDGrowl/menu22.tif
+c000000004C3FB55C00000000000065E4
+t1279243612
+s26084
+
+N/Users/dcp1990/Users/dcp1990/Development/CIDGrowl/menuic.png
+c000000004C3FB55C0000000000000C92
+t1279243612
+s3218
+
+N/var/folders/H+/H+mA7h1MEoG+kwyM3p-63k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CIDGrowl_Prefix-axrgkpgoclrhttahaaapjvfneewh/CIDGrowl_Prefix.pch.gch
+t2
+s0
+
+N/var/folders/H+/H+mA7h1MEoG+kwyM3p-63k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CIDGrowl_Prefix-fagvflusvjebaedxxcpkqlosognz/CIDGrowl_Prefix.pch.gch
+t1279589991
+s54265616
+
+N/var/folders/H+/H+mA7h1MEoG+kwyM3p-63k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CIDGrowl_Prefix-ghfsbbsdinggdegjnzntxboypiwz/CIDGrowl_Prefix.pch.gch
+t1279784246
+s54265616
+
+N/var/folders/Zv/Zvjdifw7EH8wlZ8m2iFHzU+++Tg/-Caches-/com.apple.Xcode.507/SharedPrecompiledHeaders/CIDGrowl_Prefix-ezcsekrspebkrlhfumhlqhbyvtuo/CIDGrowl_Prefix.pch.gch
+t1264890460
+s54212368
+
+N/var/folders/Zv/Zvjdifw7EH8wlZ8m2iFHzU+++Tg/-Caches-/com.apple.Xcode.507/SharedPrecompiledHeaders/CIDGrowl_Prefix-hcoobokcxyxczfcllvapzzmtkkcq/CIDGrowl_Prefix.pch.gch
+t2
+s0
+
+NCIDGrowl-Info.plist
+c000000004C47F608000000000000041A
+t1279784456
+s1050
+
+C<C0016:'PBXCp Growl.framework':P11:W0>
+s301477063.898359
+e301477063.959006
+r1
+xPBXCp
+xbuild/Debug/CIDGrowl.app/Contents/Frameworks/Growl.framework
+xGrowl.framework
+lSLF07#2@20"Copy Growl.framework301477063#301477063#0(0"0(0#0#51"/Users/dcp1990/Development/CIDGrowl/Growl.framework18859025310417008#324"    cd /Users/dcp1990/Development/CIDGrowl    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/dcp1990/Development/CIDGrowl/Growl.framework /Users/dcp1990/Development/CIDGrowl/build/Debug/CIDGrowl.app/Contents/Frameworks0#
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies301477360#301477360#0(0"0(0#1#0"8619780064#0"0#
+
+CCompileC build/CIDGrowl.build/Debug/CIDGrowl.build/Objects-normal/x86_64/CIDGrowlAppDelegate.o /Users/dcp1990/Development/CIDGrowl/CIDGrowlAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s301477150.681612
+e301477151.223041
+r1
+xCompileC
+xbuild/CIDGrowl.build/Debug/CIDGrowl.build/Objects-normal/x86_64/CIDGrowlAppDelegate.o
+x/Users/dcp1990/Development/CIDGrowl/CIDGrowlAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/dcp1990/Development/CIDGrowl/CIDGrowlAppDelegate.m301477150#301477151#0(0"0(0#0#57"/Users/dcp1990/Development/CIDGrowl/CIDGrowlAppDelegate.m8619896096#1557"    cd /Users/dcp1990/Development/CIDGrowl    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/dcp1990/Development/CIDGrowl/build/CIDGrowl.build/Debug/CIDGrowl.build/CIDGrowl-generated-files.hmap -I/Users/dcp1990/Development/CIDGrowl/build/CIDGrowl.build/Debug/CIDGrowl.build/CIDGrowl-own-target-headers.hmap -I/Users/dcp1990/Development/CIDGrowl/build/CIDGrowl.build/Debug/CIDGrowl.build/CIDGrowl-all-target-headers.hmap -iquote /Users/dcp1990/Development/CIDGrowl/build/CIDGrowl.build/Debug/CIDGrowl.build/CIDGrowl-project-headers.hmap -F/Users/dcp1990/Development/CIDGrowl/build/Debug -F/Users/dcp1990/Development/CIDGrowl/../../Desktop -F/Users/dcp1990/Development/CIDGrowl -I/Users/dcp1990/Development/CIDGrowl/build/Debug/include -I/Users/dcp1990/Development/CIDGrowl/build/CIDGrowl.build/Debug/CIDGrowl.build/DerivedSources/x86_64 -I/Users/dcp1990/Development/CIDGrowl/build/CIDGrowl.build/Debug/CIDGrowl.build/DerivedSources -include /var/folders/H+/H+mA7h1MEoG+kwyM3p-63k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CIDGrowl_Prefix-ghfsbbsdinggdegjnzntxboypiwz/CIDGrowl_Prefix.pch -c /Users/dcp1990/Development/CIDGrowl/CIDGrowlAppDelegate.m -o /Users/dcp1990/Development/CIDGrowl/build/CIDGrowl.build/Debug/CIDGrowl.build/Objects-normal/x86_64/CIDGrowlAppDelegate.o0#
+
+CCompileC build/CIDGrowl.build/Debug/CIDGrowl.build/Objects-normal/x86_64/CIDGrowlAppDelegate.o /Users/dcp1990/Users/dcp1990/Development/CIDGrowl/CIDGrowlAppDelegate.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s301282791.153531
+e301282792.119383
+r0
+xCompileC
+xbuild/CIDGrowl.build/Debug/CIDGrowl.build/Objects-normal/x86_64/CIDGrowlAppDelegate.o
+x/Users/dcp1990/Users/dcp1990/Development/CIDGrowl/CIDGrowlAppDelegate.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+oIn file included from /Users/dcp1990/Users/dcp1990/Development/CIDGrowl/CIDGrowlAppDelegate.m:9:
+o/Users/dcp1990/Users/dcp1990/Development/CIDGrowl/CIDGrowlAppDelegate.h:20: error: expected ';' before 'setCallNum'
+o/Users/dcp1990/Users/dcp1990/Development/CIDGrowl/CIDGrowlAppDelegate.m: In function '-[CIDGrowlAppDelegate setCallNum:]':
+o/Users/dcp1990/Users/dcp1990/Development/CIDGrowl/CIDGrowlAppDelegate.m:109: warning: assignment makes integer from pointer without a cast
+o/Users/dcp1990/Users/dcp1990/Development/CIDGrowl/CIDGrowlAppDelegate.m:111: error: 'numberofCalls' undeclared (first use in this function)
+o/Users/dcp1990/Users/dcp1990/Development/CIDGrowl/CIDGrowlAppDelegate.m:111: error: (Each undeclared identifier is reported only once
+o/Users/dcp1990/Users/dcp1990/Development/CIDGrowl/CIDGrowlAppDelegate.m:111: error: for each function it appears in.)
+o/Users/dcp1990/Users/dcp1990/Development/CIDGrowl/CIDGrowlAppDelegate.m: In function '-[CIDGrowlAppDelegate awakeFromNib]':
+o/Users/dcp1990/Users/dcp1990/Development/CIDGrowl/CIDGrowlAppDelegate.m:200: warning: implicit declaration of function 'setCallNum'
+o/Users/dcp1990/Users/dcp1990/Development/CIDGrowl/CIDGrowlAppDelegate.m: At top level:
+o/Users/dcp1990/Users/dcp1990/Development/CIDGrowl/CIDGrowlAppDelegate.m:220: warning: incomplete implementation of class 'CIDGrowlAppDelegate'
+o/Users/dcp1990/Users/dcp1990/Development/CIDGrowl/CIDGrowlAppDelegate.m:220: warning: method definition for '+void' not found
+lSLF07#2@79"Compile /Users/dcp1990/Users/dcp1990/Development/CIDGrowl/CIDGrowlAppDelegate.m301282791#301282792#0(1479"In file included from /Users/dcp1990/Users/dcp1990/Development/CIDGrowl/CIDGrowlAppDelegate.m:9:/Users/dcp1990/Users/dcp1990/Development/CIDGrowl/CIDGrowlAppDelegate.h:20: error: expected ';' before 'setCallNum'/Users/dcp1990/Users/dcp1990/Development/CIDGrowl/CIDGrowlAppDelegate.m: In function '-[CIDGrowlAppDelegate setCallNum:]':/Users/dcp1990/Users/dcp1990/Development/CIDGrowl/CIDGrowlAppDelegate.m:109: warning: assignment makes integer from pointer without a cast/Users/dcp1990/Users/dcp1990/Development/CIDGrowl/CIDGrowlAppDelegate.m:111: error: 'numberofCalls' undeclared (first use in this function)/Users/dcp1990/Users/dcp1990/Development/CIDGrowl/CIDGrowlAppDelegate.m:111: error: (Each undeclared identifier is reported only once/Users/dcp1990/Users/dcp1990/Development/CIDGrowl/CIDGrowlAppDelegate.m:111: error: for each function it appears in.)/Users/dcp1990/Users/dcp1990/Development/CIDGrowl/CIDGrowlAppDelegate.m: In function '-[CIDGrowlAppDelegate awakeFromNib]':/Users/dcp1990/Users/dcp1990/Development/CIDGrowl/CIDGrowlAppDelegate.m:200: warning: implicit declaration of function 'setCallNum'/Users/dcp1990/Users/dcp1990/Development/CIDGrowl/CIDGrowlAppDelegate.m: At top level:/Users/dcp1990/Users/dcp1990/Development/CIDGrowl/CIDGrowlAppDelegate.m:220: warning: incomplete implementation of class 'CIDGrowlAppDelegate'/Users/dcp1990/Users/dcp1990/Development/CIDGrowl/CIDGrowlAppDelegate.m:220: warning: method definition for '+void' not found7(4@32"Expected ';' before 'setCallNum'301282791#97#116#2(7@93"In file included from /Users/dcp1990/Users/dcp1990/Development/CIDGrowl/CIDGrowlAppDelegate.m301282791#18446744073709551615#0#0(6@71"/Users/dcp1990/Users/dcp1990/Development/CIDGrowl/CIDGrowlAppDelegate.m300936412#9#0#9#0#0"0(13@107"Expected ';' before 'setCallNum' in /Users/dcp1990/Users/dcp1990/Development/CIDGrowl/CIDGrowlAppDelegate.h301282791#18446744073709551615#0#0(6@71"/Users/dcp1990/Users/dcp1990/Development/CIDGrowl/CIDGrowlAppDelegate.h300936412#20#0#20#0#0"0(6@71"/Users/dcp1990/Users/dcp1990/Development/CIDGrowl/CIDGrowlAppDelegate.h300936412#20#0#20#0#19"expected * before *0(22@52"Assignment makes integer from pointer without a cast301282791#336#139#0(6@71"/Users/dcp1990/Users/dcp1990/Development/CIDGrowl/CIDGrowlAppDelegate.m300936412#109#0#109#0#0"0(4@55"'numberofCalls' undeclared (first use in this function)301282791#475#140#0(6@71"/Users/dcp1990/Users/dcp1990/Development/CIDGrowl/CIDGrowlAppDelegate.m300936412#111#0#111#0#43"'*' undeclared (first use in this function)0(22@45"Implicit declaration of function 'setCallNum'301282791#991#132#0(6@71"/Users/dcp1990/Users/dcp1990/Development/CIDGrowl/CIDGrowlAppDelegate.m300936412#200#0#200#0#36"implicit declaration of function '*'0(23@13"At top level:301282791#1123#87#0(6@71"/Users/dcp1990/Users/dcp1990/Development/CIDGrowl/CIDGrowlAppDelegate.m300936412#0#0#0#0#0"0(22@56"Incomplete implementation of class 'CIDGrowlAppDelegate'301282791#1210#143#0(6@71"/Users/dcp1990/Users/dcp1990/Development/CIDGrowl/CIDGrowlAppDelegate.m300936412#220#0#220#0#38"incomplete implementation of class '*'0(22@39"Method definition for '+void' not found301282791#1353#126#0(6@71"/Users/dcp1990/Users/dcp1990/Development/CIDGrowl/CIDGrowlAppDelegate.m300936412#220#0#220#0#35"method definition for '*' not found0(0#0#71"/Users/dcp1990/Users/dcp1990/Development/CIDGrowl/CIDGrowlAppDelegate.m8597953024#1687"    cd /Users/dcp1990/Users/dcp1990/Development/CIDGrowl    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/dcp1990/Users/dcp1990/Development/CIDGrowl/build/CIDGrowl.build/Debug/CIDGrowl.build/CIDGrowl-generated-files.hmap -I/Users/dcp1990/Users/dcp1990/Development/CIDGrowl/build/CIDGrowl.build/Debug/CIDGrowl.build/CIDGrowl-own-target-headers.hmap -I/Users/dcp1990/Users/dcp1990/Development/CIDGrowl/build/CIDGrowl.build/Debug/CIDGrowl.build/CIDGrowl-all-target-headers.hmap -iquote /Users/dcp1990/Users/dcp1990/Development/CIDGrowl/build/CIDGrowl.build/Debug/CIDGrowl.build/CIDGrowl-project-headers.hmap -F/Users/dcp1990/Users/dcp1990/Development/CIDGrowl/build/Debug -F/Users/dcp1990/Users/dcp1990/Development/CIDGrowl/../../Desktop -I/Users/dcp1990/Users/dcp1990/Development/CIDGrowl/build/Debug/include -I/Users/dcp1990/Users/dcp1990/Development/CIDGrowl/build/CIDGrowl.build/Debug/CIDGrowl.build/DerivedSources/x86_64 -I/Users/dcp1990/Users/dcp1990/Development/CIDGrowl/build/CIDGrowl.build/Debug/CIDGrowl.build/DerivedSources -include /var/folders/H+/H+mA7h1MEoG+kwyM3p-63k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CIDGrowl_Prefix-fagvflusvjebaedxxcpkqlosognz/CIDGrowl_Prefix.pch -c /Users/dcp1990/Users/dcp1990/Development/CIDGrowl/CIDGrowlAppDelegate.m -o /Users/dcp1990/Users/dcp1990/Development/CIDGrowl/build/CIDGrowl.build/Debug/CIDGrowl.build/Objects-normal/x86_64/CIDGrowlAppDelegate.o1#
+
+CCompileC build/CIDGrowl.build/Debug/CIDGrowl.build/Objects-normal/x86_64/main.o /Users/dcp1990/Development/CIDGrowl/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s301477046.130207
+e301477046.269299
+r1
+xCompileC
+xbuild/CIDGrowl.build/Debug/CIDGrowl.build/Objects-normal/x86_64/main.o
+x/Users/dcp1990/Development/CIDGrowl/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@50"Compile /Users/dcp1990/Development/CIDGrowl/main.m301477046#301477046#0(0"0(0#0#42"/Users/dcp1990/Development/CIDGrowl/main.m8619163424#1527"    cd /Users/dcp1990/Development/CIDGrowl    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/dcp1990/Development/CIDGrowl/build/CIDGrowl.build/Debug/CIDGrowl.build/CIDGrowl-generated-files.hmap -I/Users/dcp1990/Development/CIDGrowl/build/CIDGrowl.build/Debug/CIDGrowl.build/CIDGrowl-own-target-headers.hmap -I/Users/dcp1990/Development/CIDGrowl/build/CIDGrowl.build/Debug/CIDGrowl.build/CIDGrowl-all-target-headers.hmap -iquote /Users/dcp1990/Development/CIDGrowl/build/CIDGrowl.build/Debug/CIDGrowl.build/CIDGrowl-project-headers.hmap -F/Users/dcp1990/Development/CIDGrowl/build/Debug -F/Users/dcp1990/Development/CIDGrowl/../../Desktop -F/Users/dcp1990/Development/CIDGrowl -I/Users/dcp1990/Development/CIDGrowl/build/Debug/include -I/Users/dcp1990/Development/CIDGrowl/build/CIDGrowl.build/Debug/CIDGrowl.build/DerivedSources/x86_64 -I/Users/dcp1990/Development/CIDGrowl/build/CIDGrowl.build/Debug/CIDGrowl.build/DerivedSources -include /var/folders/H+/H+mA7h1MEoG+kwyM3p-63k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CIDGrowl_Prefix-ghfsbbsdinggdegjnzntxboypiwz/CIDGrowl_Prefix.pch -c /Users/dcp1990/Development/CIDGrowl/main.m -o /Users/dcp1990/Development/CIDGrowl/build/CIDGrowl.build/Debug/CIDGrowl.build/Objects-normal/x86_64/main.o0#
+
+CCompileC build/CIDGrowl.build/Debug/CIDGrowl.build/Objects-normal/x86_64/main.o /Users/dcp1990/Users/dcp1990/Development/CIDGrowl/main.m normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s301282791.151950
+e301282791.358449
+r1
+xCompileC
+xbuild/CIDGrowl.build/Debug/CIDGrowl.build/Objects-normal/x86_64/main.o
+x/Users/dcp1990/Users/dcp1990/Development/CIDGrowl/main.m
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@64"Compile /Users/dcp1990/Users/dcp1990/Development/CIDGrowl/main.m301282791#301282791#0(0"0(0#0#56"/Users/dcp1990/Users/dcp1990/Development/CIDGrowl/main.m8609026656#1657"    cd /Users/dcp1990/Users/dcp1990/Development/CIDGrowl    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/dcp1990/Users/dcp1990/Development/CIDGrowl/build/CIDGrowl.build/Debug/CIDGrowl.build/CIDGrowl-generated-files.hmap -I/Users/dcp1990/Users/dcp1990/Development/CIDGrowl/build/CIDGrowl.build/Debug/CIDGrowl.build/CIDGrowl-own-target-headers.hmap -I/Users/dcp1990/Users/dcp1990/Development/CIDGrowl/build/CIDGrowl.build/Debug/CIDGrowl.build/CIDGrowl-all-target-headers.hmap -iquote /Users/dcp1990/Users/dcp1990/Development/CIDGrowl/build/CIDGrowl.build/Debug/CIDGrowl.build/CIDGrowl-project-headers.hmap -F/Users/dcp1990/Users/dcp1990/Development/CIDGrowl/build/Debug -F/Users/dcp1990/Users/dcp1990/Development/CIDGrowl/../../Desktop -I/Users/dcp1990/Users/dcp1990/Development/CIDGrowl/build/Debug/include -I/Users/dcp1990/Users/dcp1990/Development/CIDGrowl/build/CIDGrowl.build/Debug/CIDGrowl.build/DerivedSources/x86_64 -I/Users/dcp1990/Users/dcp1990/Development/CIDGrowl/build/CIDGrowl.build/Debug/CIDGrowl.build/DerivedSources -include /var/folders/H+/H+mA7h1MEoG+kwyM3p-63k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CIDGrowl_Prefix-fagvflusvjebaedxxcpkqlosognz/CIDGrowl_Prefix.pch -c /Users/dcp1990/Users/dcp1990/Development/CIDGrowl/main.m -o /Users/dcp1990/Users/dcp1990/Development/CIDGrowl/build/CIDGrowl.build/Debug/CIDGrowl.build/Objects-normal/x86_64/main.o0#
+
+CCompileXIB /Users/dcp1990/Development/CIDGrowl/English.lproj/MainMenu.xib
+s301477360.331861
+e301477360.648347
+r1
+xCompileXIB
+x/Users/dcp1990/Development/CIDGrowl/English.lproj/MainMenu.xib
+lSLF07#2@37"CompileXIB English.lproj/MainMenu.xib301477360#301477360#0(0"0(0#0#62"/Users/dcp1990/Development/CIDGrowl/English.lproj/MainMenu.xib8617040672#356"    cd /Users/dcp1990/Development/CIDGrowl    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile /Users/dcp1990/Development/CIDGrowl/build/Debug/CIDGrowl.app/Contents/Resources/English.lproj/MainMenu.nib /Users/dcp1990/Development/CIDGrowl/English.lproj/MainMenu.xib --sdk /Developer/SDKs/MacOSX10.6.sdk0#
+
+CCompileXIB /Users/dcp1990/Users/dcp1990/Development/CIDGrowl/English.lproj/MainMenu.xib
+r0
+
+CCopyStringsFile /Users/dcp1990/Development/CIDGrowl/build/Debug/CIDGrowl.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+s301477041.393184
+e301477041.683656
+r1
+xCopyStringsFile
+x/Users/dcp1990/Development/CIDGrowl/build/Debug/CIDGrowl.app/Contents/Resources/English.lproj/InfoPlist.strings
+xEnglish.lproj/InfoPlist.strings
+lSLF07#2@36"Copy English.lproj/InfoPlist.strings301477041#301477041#0(0"0(0#0#67"/Users/dcp1990/Development/CIDGrowl/English.lproj/InfoPlist.strings8619452512#360"    cd /Users/dcp1990/Development/CIDGrowl    setenv ICONV /usr/bin/iconv    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copystrings --validate --inputencoding utf-8 --outputencoding UTF-16 English.lproj/InfoPlist.strings --outdir /Users/dcp1990/Development/CIDGrowl/build/Debug/CIDGrowl.app/Contents/Resources/English.lproj0#
+
+CCopyStringsFile /Users/dcp1990/Users/dcp1990/Development/CIDGrowl/build/Debug/CIDGrowl.app/Contents/Resources/English.lproj/InfoPlist.strings English.lproj/InfoPlist.strings
+r0
+
+CCopyTiffFile /Users/dcp1990/Development/CIDGrowl/build/Debug/CIDGrowl.app/Contents/Resources/growlicon.tif growlicon.tif
+s301477041.725670
+e301477041.761479
+r1
+xCopyTiffFile
+x/Users/dcp1990/Development/CIDGrowl/build/Debug/CIDGrowl.app/Contents/Resources/growlicon.tif
+xgrowlicon.tif
+lSLF07#2@18"Copy growlicon.tif301477041#301477041#0(0"0(0#0#49"/Users/dcp1990/Development/CIDGrowl/growlicon.tif8623542848#236"    cd /Users/dcp1990/Development/CIDGrowl    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copytiff growlicon.tif --outdir /Users/dcp1990/Development/CIDGrowl/build/Debug/CIDGrowl.app/Contents/Resources0#
+
+CCopyTiffFile /Users/dcp1990/Development/CIDGrowl/build/Debug/CIDGrowl.app/Contents/Resources/menu22.tif menu22.tif
+s301477041.685069
+e301477041.719777
+r1
+xCopyTiffFile
+x/Users/dcp1990/Development/CIDGrowl/build/Debug/CIDGrowl.app/Contents/Resources/menu22.tif
+xmenu22.tif
+lSLF07#2@15"Copy menu22.tif301477041#301477041#0(0"0(0#0#46"/Users/dcp1990/Development/CIDGrowl/menu22.tif8623711360#233"    cd /Users/dcp1990/Development/CIDGrowl    /Developer/Library/Xcode/Plug-ins/CoreBuildTasks.xcplugin/Contents/Resources/copytiff menu22.tif --outdir /Users/dcp1990/Development/CIDGrowl/build/Debug/CIDGrowl.app/Contents/Resources0#
+
+CCopyTiffFile /Users/dcp1990/Users/dcp1990/Development/CIDGrowl/build/Debug/CIDGrowl.app/Contents/Resources/growlicon.tif growlicon.tif
+r0
+
+CCopyTiffFile /Users/dcp1990/Users/dcp1990/Development/CIDGrowl/build/Debug/CIDGrowl.app/Contents/Resources/menu22.tif menu22.tif
+r0
+
+CCpResource "build/Debug/CIDGrowl.app/Contents/Resources/Growl Registration Ticket.growlRegDict" "Growl Registration Ticket.growlRegDict"
+s301477041.392361
+e301477041.430257
+r1
+xCpResource
+xbuild/Debug/CIDGrowl.app/Contents/Resources/Growl Registration Ticket.growlRegDict
+xGrowl Registration Ticket.growlRegDict
+lSLF07#2@43"Copy Growl Registration Ticket.growlRegDict301477041#301477041#0(0"0(0#0#74"/Users/dcp1990/Development/CIDGrowl/Growl Registration Ticket.growlRegDict8619510464#348"    cd /Users/dcp1990/Development/CIDGrowl    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks "/Users/dcp1990/Development/CIDGrowl/Growl Registration Ticket.growlRegDict" /Users/dcp1990/Development/CIDGrowl/build/Debug/CIDGrowl.app/Contents/Resources0#
+
+CCpResource build/Debug/CIDGrowl.app/Contents/Resources/CIDGrowlIcon.icns CIDGrowlIcon.icns
+s301477041.720853
+e301477041.743709
+r1
+xCpResource
+xbuild/Debug/CIDGrowl.app/Contents/Resources/CIDGrowlIcon.icns
+xCIDGrowlIcon.icns
+lSLF07#2@22"Copy CIDGrowlIcon.icns301477041#301477041#0(0"0(0#0#53"/Users/dcp1990/Development/CIDGrowl/CIDGrowlIcon.icns8623580352#325"    cd /Users/dcp1990/Development/CIDGrowl    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/dcp1990/Development/CIDGrowl/CIDGrowlIcon.icns /Users/dcp1990/Development/CIDGrowl/build/Debug/CIDGrowl.app/Contents/Resources0#
+
+CCpResource build/Debug/CIDGrowl.app/Contents/Resources/bigicon.png bigicon.png
+s301477041.719945
+e301477041.743129
+r1
+xCpResource
+xbuild/Debug/CIDGrowl.app/Contents/Resources/bigicon.png
+xbigicon.png
+lSLF07#2@16"Copy bigicon.png301477041#301477041#0(0"0(0#0#47"/Users/dcp1990/Development/CIDGrowl/bigicon.png8623644288#319"    cd /Users/dcp1990/Development/CIDGrowl    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/dcp1990/Development/CIDGrowl/bigicon.png /Users/dcp1990/Development/CIDGrowl/build/Debug/CIDGrowl.app/Contents/Resources0#
+
+CCpResource build/Debug/CIDGrowl.app/Contents/Resources/menuic.png menuic.png
+s301477041.683809
+e301477041.697770
+r1
+xCpResource
+xbuild/Debug/CIDGrowl.app/Contents/Resources/menuic.png
+xmenuic.png
+lSLF07#2@15"Copy menuic.png301477041#301477041#0(0"0(0#0#46"/Users/dcp1990/Development/CIDGrowl/menuic.png8623797216#318"    cd /Users/dcp1990/Development/CIDGrowl    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/dcp1990/Development/CIDGrowl/menuic.png /Users/dcp1990/Development/CIDGrowl/build/Debug/CIDGrowl.app/Contents/Resources0#
+
+CLd /Users/dcp1990/Development/CIDGrowl/build/Debug/CIDGrowl.app/Contents/MacOS/CIDGrowl normal x86_64
+s301477151.223259
+e301477151.279530
+r1
+xLd
+x/Users/dcp1990/Development/CIDGrowl/build/Debug/CIDGrowl.app/Contents/MacOS/CIDGrowl
+xnormal
+xx86_64
+lSLF07#2@89"Link /Users/dcp1990/Development/CIDGrowl/build/Debug/CIDGrowl.app/Contents/MacOS/CIDGrowl301477151#301477151#0(0"0(0#0#0"8616746112#639"    cd /Users/dcp1990/Development/CIDGrowl    setenv MACOSX_DEPLOYMENT_TARGET 10.6    /Developer/usr/bin/gcc-4.2 -arch x86_64 -isysroot /Developer/SDKs/MacOSX10.6.sdk -L/Users/dcp1990/Development/CIDGrowl/build/Debug -F/Users/dcp1990/Development/CIDGrowl/build/Debug -F/Users/dcp1990/Development/CIDGrowl/../../Desktop -F/Users/dcp1990/Development/CIDGrowl -filelist /Users/dcp1990/Development/CIDGrowl/build/CIDGrowl.build/Debug/CIDGrowl.build/Objects-normal/x86_64/CIDGrowl.LinkFileList -mmacosx-version-min=10.6 -framework Cocoa -framework Growl -o /Users/dcp1990/Development/CIDGrowl/build/Debug/CIDGrowl.app/Contents/MacOS/CIDGrowl0#
+
+CLd /Users/dcp1990/Users/dcp1990/Development/CIDGrowl/build/Debug/CIDGrowl.app/Contents/MacOS/CIDGrowl normal x86_64
+r0
+
+CPBXCp build/Debug/CIDGrowl.app/Contents/Frameworks/Growl-WithInstaller.framework Growl-WithInstaller.framework
+s301476164.892849
+e301476165.204987
+r1
+xPBXCp
+xbuild/Debug/CIDGrowl.app/Contents/Frameworks/Growl-WithInstaller.framework
+xGrowl-WithInstaller.framework
+lSLF07#2@34"Copy Growl-WithInstaller.framework301476164#301476165#0(0"0(0#0#65"/Users/dcp1990/Development/CIDGrowl/Growl-WithInstaller.framework8619441216#338"    cd /Users/dcp1990/Development/CIDGrowl    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/dcp1990/Development/CIDGrowl/Growl-WithInstaller.framework /Users/dcp1990/Development/CIDGrowl/build/Debug/CIDGrowl.app/Contents/Frameworks0#
+
+CPBXCp build/Debug/CIDGrowl.app/Contents/Frameworks/Growl.framework Growl.framework
+s301477046.286886
+e301477046.317034
+r1
+xPBXCp
+xbuild/Debug/CIDGrowl.app/Contents/Frameworks/Growl.framework
+xGrowl.framework
+lSLF07#2@20"Copy Growl.framework301477046#301477046#0(0"0(0#0#51"/Users/dcp1990/Development/CIDGrowl/Growl.framework8609126816#324"    cd /Users/dcp1990/Development/CIDGrowl    /Developer/Library/PrivateFrameworks/DevToolsCore.framework/Resources/pbxcp -exclude .DS_Store -exclude CVS -exclude .svn -resolve-src-symlinks /Users/dcp1990/Development/CIDGrowl/Growl.framework /Users/dcp1990/Development/CIDGrowl/build/Debug/CIDGrowl.app/Contents/Frameworks0#
+
+CProcessInfoPlistFile /Users/dcp1990/Development/CIDGrowl/build/Debug/CIDGrowl.app/Contents/Info.plist CIDGrowl-Info.plist
+s301477261.475367
+e301477261.483642
+r1
+xProcessInfoPlistFile
+x/Users/dcp1990/Development/CIDGrowl/build/Debug/CIDGrowl.app/Contents/Info.plist
+xCIDGrowl-Info.plist
+lSLF07#2@27"Process CIDGrowl-Info.plist301477261#301477261#0(0"0(0#0#55"/Users/dcp1990/Development/CIDGrowl/CIDGrowl-Info.plist8619232384#304"    cd /Users/dcp1990/Development/CIDGrowl    builtin-infoPlistUtility CIDGrowl-Info.plist -genpkginfo /Users/dcp1990/Development/CIDGrowl/build/Debug/CIDGrowl.app/Contents/PkgInfo -expandbuildsettings -platform macosx -o /Users/dcp1990/Development/CIDGrowl/build/Debug/CIDGrowl.app/Contents/Info.plist0#
+
+CProcessInfoPlistFile /Users/dcp1990/Users/dcp1990/Development/CIDGrowl/build/Debug/CIDGrowl.app/Contents/Info.plist CIDGrowl-Info.plist
+r0
+
+CProcessPCH /var/folders/H+/H+mA7h1MEoG+kwyM3p-63k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CIDGrowl_Prefix-axrgkpgoclrhttahaaapjvfneewh/CIDGrowl_Prefix.pch.gch CIDGrowl_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s301337973.709823
+e301337992.351675
+r0
+xProcessPCH
+x/var/folders/H+/H+mA7h1MEoG+kwyM3p-63k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CIDGrowl_Prefix-axrgkpgoclrhttahaaapjvfneewh/CIDGrowl_Prefix.pch.gch
+xCIDGrowl_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile CIDGrowl_Prefix.pch301337973#301337992#0(0"0(0#0#55"/Users/dcp1990/Development/CIDGrowl/CIDGrowl_Prefix.pch8603392288#1397"    cd /Users/dcp1990/Development/CIDGrowl    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/dcp1990/Development/CIDGrowl/build/CIDGrowl.build/Debug/CIDGrowl.build/CIDGrowl-generated-files.hmap -I/Users/dcp1990/Development/CIDGrowl/build/CIDGrowl.build/Debug/CIDGrowl.build/CIDGrowl-own-target-headers.hmap -I/Users/dcp1990/Development/CIDGrowl/build/CIDGrowl.build/Debug/CIDGrowl.build/CIDGrowl-all-target-headers.hmap -iquote /Users/dcp1990/Development/CIDGrowl/build/CIDGrowl.build/Debug/CIDGrowl.build/CIDGrowl-project-headers.hmap -F/Users/dcp1990/Development/CIDGrowl/build/Debug -F/Users/dcp1990/Development/CIDGrowl/../../Desktop -I/Users/dcp1990/Development/CIDGrowl/build/Debug/include -I/Users/dcp1990/Development/CIDGrowl/build/CIDGrowl.build/Debug/CIDGrowl.build/DerivedSources/x86_64 -I/Users/dcp1990/Development/CIDGrowl/build/CIDGrowl.build/Debug/CIDGrowl.build/DerivedSources -c /Users/dcp1990/Development/CIDGrowl/CIDGrowl_Prefix.pch -o /var/folders/H+/H+mA7h1MEoG+kwyM3p-63k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CIDGrowl_Prefix-axrgkpgoclrhttahaaapjvfneewh/CIDGrowl_Prefix.pch.gch2#
+
+CProcessPCH /var/folders/H+/H+mA7h1MEoG+kwyM3p-63k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CIDGrowl_Prefix-fagvflusvjebaedxxcpkqlosognz/CIDGrowl_Prefix.pch.gch CIDGrowl_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s301282786.820605
+e301282791.151485
+r1
+xProcessPCH
+x/var/folders/H+/H+mA7h1MEoG+kwyM3p-63k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CIDGrowl_Prefix-fagvflusvjebaedxxcpkqlosognz/CIDGrowl_Prefix.pch.gch
+xCIDGrowl_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile CIDGrowl_Prefix.pch301282786#301282791#0(0"0(0#0#69"/Users/dcp1990/Users/dcp1990/Development/CIDGrowl/CIDGrowl_Prefix.pch5791466906048415744#1551"    cd /Users/dcp1990/Users/dcp1990/Development/CIDGrowl    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/dcp1990/Users/dcp1990/Development/CIDGrowl/build/CIDGrowl.build/Debug/CIDGrowl.build/CIDGrowl-generated-files.hmap -I/Users/dcp1990/Users/dcp1990/Development/CIDGrowl/build/CIDGrowl.build/Debug/CIDGrowl.build/CIDGrowl-own-target-headers.hmap -I/Users/dcp1990/Users/dcp1990/Development/CIDGrowl/build/CIDGrowl.build/Debug/CIDGrowl.build/CIDGrowl-all-target-headers.hmap -iquote /Users/dcp1990/Users/dcp1990/Development/CIDGrowl/build/CIDGrowl.build/Debug/CIDGrowl.build/CIDGrowl-project-headers.hmap -F/Users/dcp1990/Users/dcp1990/Development/CIDGrowl/build/Debug -F/Users/dcp1990/Users/dcp1990/Development/CIDGrowl/../../Desktop -I/Users/dcp1990/Users/dcp1990/Development/CIDGrowl/build/Debug/include -I/Users/dcp1990/Users/dcp1990/Development/CIDGrowl/build/CIDGrowl.build/Debug/CIDGrowl.build/DerivedSources/x86_64 -I/Users/dcp1990/Users/dcp1990/Development/CIDGrowl/build/CIDGrowl.build/Debug/CIDGrowl.build/DerivedSources -c /Users/dcp1990/Users/dcp1990/Development/CIDGrowl/CIDGrowl_Prefix.pch -o /var/folders/H+/H+mA7h1MEoG+kwyM3p-63k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CIDGrowl_Prefix-fagvflusvjebaedxxcpkqlosognz/CIDGrowl_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/H+/H+mA7h1MEoG+kwyM3p-63k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CIDGrowl_Prefix-ghfsbbsdinggdegjnzntxboypiwz/CIDGrowl_Prefix.pch.gch CIDGrowl_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s301477042.600322
+e301477046.129780
+r1
+xProcessPCH
+x/var/folders/H+/H+mA7h1MEoG+kwyM3p-63k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CIDGrowl_Prefix-ghfsbbsdinggdegjnzntxboypiwz/CIDGrowl_Prefix.pch.gch
+xCIDGrowl_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile CIDGrowl_Prefix.pch301477042#301477046#0(0"0(0#0#55"/Users/dcp1990/Development/CIDGrowl/CIDGrowl_Prefix.pch8619895328#1435"    cd /Users/dcp1990/Development/CIDGrowl    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/dcp1990/Development/CIDGrowl/build/CIDGrowl.build/Debug/CIDGrowl.build/CIDGrowl-generated-files.hmap -I/Users/dcp1990/Development/CIDGrowl/build/CIDGrowl.build/Debug/CIDGrowl.build/CIDGrowl-own-target-headers.hmap -I/Users/dcp1990/Development/CIDGrowl/build/CIDGrowl.build/Debug/CIDGrowl.build/CIDGrowl-all-target-headers.hmap -iquote /Users/dcp1990/Development/CIDGrowl/build/CIDGrowl.build/Debug/CIDGrowl.build/CIDGrowl-project-headers.hmap -F/Users/dcp1990/Development/CIDGrowl/build/Debug -F/Users/dcp1990/Development/CIDGrowl/../../Desktop -F/Users/dcp1990/Development/CIDGrowl -I/Users/dcp1990/Development/CIDGrowl/build/Debug/include -I/Users/dcp1990/Development/CIDGrowl/build/CIDGrowl.build/Debug/CIDGrowl.build/DerivedSources/x86_64 -I/Users/dcp1990/Development/CIDGrowl/build/CIDGrowl.build/Debug/CIDGrowl.build/DerivedSources -c /Users/dcp1990/Development/CIDGrowl/CIDGrowl_Prefix.pch -o /var/folders/H+/H+mA7h1MEoG+kwyM3p-63k+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/CIDGrowl_Prefix-ghfsbbsdinggdegjnzntxboypiwz/CIDGrowl_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/Zv/Zvjdifw7EH8wlZ8m2iFHzU+++Tg/-Caches-/com.apple.Xcode.507/SharedPrecompiledHeaders/CIDGrowl_Prefix-ezcsekrspebkrlhfumhlqhbyvtuo/CIDGrowl_Prefix.pch.gch CIDGrowl_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+s286583243.835721
+e286583261.030744
+r1
+xProcessPCH
+x/var/folders/Zv/Zvjdifw7EH8wlZ8m2iFHzU+++Tg/-Caches-/com.apple.Xcode.507/SharedPrecompiledHeaders/CIDGrowl_Prefix-ezcsekrspebkrlhfumhlqhbyvtuo/CIDGrowl_Prefix.pch.gch
+xCIDGrowl_Prefix.pch
+xnormal
+xx86_64
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@30"Precompile CIDGrowl_Prefix.pch286583243#286583261#0(0"0(0#0#55"/Users/dcp1990/Development/CIDGrowl/CIDGrowl_Prefix.pch4300934600#1397"    cd /Users/dcp1990/Development/CIDGrowl    setenv LANG en_US.US-ASCII    /Developer/usr/bin/gcc-4.2 -x objective-c-header -arch x86_64 -fmessage-length=0 -pipe -std=gnu99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/SDKs/MacOSX10.6.sdk -mfix-and-continue -mmacosx-version-min=10.6 -gdwarf-2 -iquote /Users/dcp1990/Development/CIDGrowl/build/CIDGrowl.build/Debug/CIDGrowl.build/CIDGrowl-generated-files.hmap -I/Users/dcp1990/Development/CIDGrowl/build/CIDGrowl.build/Debug/CIDGrowl.build/CIDGrowl-own-target-headers.hmap -I/Users/dcp1990/Development/CIDGrowl/build/CIDGrowl.build/Debug/CIDGrowl.build/CIDGrowl-all-target-headers.hmap -iquote /Users/dcp1990/Development/CIDGrowl/build/CIDGrowl.build/Debug/CIDGrowl.build/CIDGrowl-project-headers.hmap -F/Users/dcp1990/Development/CIDGrowl/build/Debug -F/Users/dcp1990/Development/CIDGrowl/../../Desktop -I/Users/dcp1990/Development/CIDGrowl/build/Debug/include -I/Users/dcp1990/Development/CIDGrowl/build/CIDGrowl.build/Debug/CIDGrowl.build/DerivedSources/x86_64 -I/Users/dcp1990/Development/CIDGrowl/build/CIDGrowl.build/Debug/CIDGrowl.build/DerivedSources -c /Users/dcp1990/Development/CIDGrowl/CIDGrowl_Prefix.pch -o /var/folders/Zv/Zvjdifw7EH8wlZ8m2iFHzU+++Tg/-Caches-/com.apple.Xcode.507/SharedPrecompiledHeaders/CIDGrowl_Prefix-ezcsekrspebkrlhfumhlqhbyvtuo/CIDGrowl_Prefix.pch.gch0#
+
+CProcessPCH /var/folders/Zv/Zvjdifw7EH8wlZ8m2iFHzU+++Tg/-Caches-/com.apple.Xcode.507/SharedPrecompiledHeaders/CIDGrowl_Prefix-hcoobokcxyxczfcllvapzzmtkkcq/CIDGrowl_Prefix.pch.gch CIDGrowl_Prefix.pch normal x86_64 objective-c com.apple.compilers.gcc.4_2
+r0
+
+CTouch /Users/dcp1990/Development/CIDGrowl/build/Debug/CIDGrowl.app
+s301477360.648771
+e301477360.651134
+r1
+xTouch
+x/Users/dcp1990/Development/CIDGrowl/build/Debug/CIDGrowl.app
+lSLF07#2@66"Touch /Users/dcp1990/Development/CIDGrowl/build/Debug/CIDGrowl.app301477360#301477360#0(0"0(0#0#0"8616920000#126"    cd /Users/dcp1990/Development/CIDGrowl    /usr/bin/touch -c /Users/dcp1990/Development/CIDGrowl/build/Debug/CIDGrowl.app0#
+
+CTouch /Users/dcp1990/Users/dcp1990/Development/CIDGrowl/build/Debug/CIDGrowl.app
+r0
+
